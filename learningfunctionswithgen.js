@@ -1,4 +1,4 @@
-//Functions
+//functions
 function  square(number = 1) {
     return number+number;
 }
