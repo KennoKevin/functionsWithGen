@@ -1,4 +1,4 @@
-//functions
+//functions (a code block that completes diffrent tasks)
 function  square(number = 1) {
     return number+number;
 }
